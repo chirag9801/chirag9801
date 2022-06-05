@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Learner</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag9801&label=Profile%20views&color=0e75b6&style=flat" alt="chirag9801" /> </p>
 
