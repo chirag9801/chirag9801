@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag9801" alt="chirag9801" /></a> </p>
 
-- 📫 How to reach me **chiragpatil78315@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+- 📫 How to reach me <a href="mailto:chiragpatil78315@gmail.com">chiragpatil78315@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
