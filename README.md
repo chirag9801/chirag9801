@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">A Software Engineer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
