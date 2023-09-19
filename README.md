@@ -1,3 +1,8 @@
+<style>
+img {
+  border: 1.5px solid #555;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Chirag</h1>
 <h3 align="center">A Software Engineer</h3>
 <div id="header" align="center">
